@@ -1,7 +1,7 @@
 Hash tables 
 
 hash tables is a data structure in which every value is associated with a key and we can find that key using hash function. there are some method related to hash function: Put, Remove, Search, Size, InEmpty. 
-![alt text](https://en.wikipedia.org/wiki/File:Hash_table_3_1_1_0_1_0_0_SP.svg)
+![alt text](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Hash_table_3_1_1_0_1_0_0_SP.svg/315px-Hash_table_3_1_1_0_1_0_0_SP.svg.png)
 
 1. Put
  
@@ -69,5 +69,5 @@ using isEmpty method, we can check the values of existence and nonexistence in t
       }
   }
 
-  
+
 ![alt text](https://gblobscdn.gitbook.com/assets%2F-M0tzdQoYXoPhCiqfqxs%2F-M7Y_5joCQkAp5eT8QA3%2F-M7YdusFFO7hJDvhMPyN%2FScreen%20Shot%202020-05-18%20at%205.20.48%20AM.png?alt=media&token=3a45f94d-c371-420e-a9a2-fe852e12f6d6)
